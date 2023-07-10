@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+    font-family: cursive;
+    text-align: center;
+}
+
+#btn{
+    text-align: center;
+    margin-top: 20px;
+    border:none;
+    outline: none;
+    padding: 10px 30px;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#btn:hover{
+    background: rgb(249, 142, 1);
+    color: black;
+}
